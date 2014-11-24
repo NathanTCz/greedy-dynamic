@@ -1,0 +1,19 @@
+PROJECT #2 - GREEDY ALGORITHM AND DYNAMIC PROGRAMMING
+NATHAN CAZELL
+11/24/2014
+
+These algroithm methods are written in Python v3.x no v2.7
+
+## INTERVAL SCHEDULING
+  - Run the script `interval.py` with data1.txt with Python v3.x
+      `python3 interval.py data1.txt`
+
+  - This script outputs the job names in the schedule, one job
+    name per line
+
+## LONGEST COMMON SUBSEQUENCE
+  - Run the script `lcs.py` with data2.txt with Python v3.x
+      `python3 lcs.py data2.txt`
+
+  - This script outputs the LCS for each pair of strings in the
+    data file, each LCS per line.
